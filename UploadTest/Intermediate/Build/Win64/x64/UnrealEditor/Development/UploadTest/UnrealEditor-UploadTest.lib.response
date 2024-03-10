@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UploadTest.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\seniorProject\UploadTest\Intermediate\Build\Win64\x64\UploadTestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"E:\seniorProject\UploadTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\UploadTest\UploadTest.init.gen.cpp.obj"
+"E:\seniorProject\UploadTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\UploadTest\UploadTestCharacter.gen.cpp.obj"
+"E:\seniorProject\UploadTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\UploadTest\UploadTestGameMode.gen.cpp.obj"
+"E:\seniorProject\UploadTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\UploadTest\UploadTest.cpp.obj"
+"E:\seniorProject\UploadTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\UploadTest\UploadTestCharacter.cpp.obj"
+"E:\seniorProject\UploadTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\UploadTest\UploadTestGameMode.cpp.obj"
+"E:\seniorProject\UploadTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\UploadTest\Default.rc2.res"
+/OUT:"E:\seniorProject\UploadTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\UploadTest\UnrealEditor-UploadTest.lib"

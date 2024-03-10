@@ -1,0 +1,58 @@
+[
+	{
+		"file": "E:\\seniorProject\\UploadTest\\Source\\UploadTest\\UploadTest.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\seniorProject\\UploadTest\\.vscode\\compileCommands_Default\\UploadTest.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "E:\\seniorProject\\UploadTest\\Source\\UploadTest\\UploadTest.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\seniorProject\\UploadTest\\.vscode\\compileCommands_Default\\UploadTest.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "E:\\seniorProject\\UploadTest\\Source\\UploadTest\\UploadTest.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\seniorProject\\UploadTest\\.vscode\\compileCommands_Default\\UploadTest.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "E:\\seniorProject\\UploadTest\\Source\\UploadTest\\UploadTestCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\seniorProject\\UploadTest\\.vscode\\compileCommands_Default\\UploadTest.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "E:\\seniorProject\\UploadTest\\Source\\UploadTest\\UploadTestCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\seniorProject\\UploadTest\\.vscode\\compileCommands_Default\\UploadTest.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "E:\\seniorProject\\UploadTest\\Source\\UploadTest\\UploadTestGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\seniorProject\\UploadTest\\.vscode\\compileCommands_Default\\UploadTest.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "E:\\seniorProject\\UploadTest\\Source\\UploadTest\\UploadTestGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\seniorProject\\UploadTest\\.vscode\\compileCommands_Default\\UploadTest.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	}
+]

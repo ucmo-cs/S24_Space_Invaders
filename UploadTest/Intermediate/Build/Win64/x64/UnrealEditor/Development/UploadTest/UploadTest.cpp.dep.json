@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\seniorproject\\uploadtest\\source\\uploadtest\\uploadtest.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\seniorproject\\uploadtest\\intermediate\\build\\win64\\x64\\uploadtesteditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "e:\\seniorproject\\uploadtest\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\uploadtest\\definitions.uploadtest.h",
+            "e:\\seniorproject\\uploadtest\\source\\uploadtest\\uploadtest.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
